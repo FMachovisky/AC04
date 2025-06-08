@@ -19,7 +19,6 @@ Quais são os 10 países com maior número de títulos na plataforma?
 Quais são as classificações etárias mais frequentes no catálogo?
 Qual é a tendência de crescimento do conteúdo por tipo (filme ou série) ao longo do tempo?
 Quais são os gêneros mais populares dentro da plataforma?
-Através da análise exploratória e de visualizações informativas, buscamos oferecer uma visão clara das estratégias de curadoria e expansão de conteúdo da Netflix.
 
 ## **Bibliotecas Utilizadas**
 pandas
