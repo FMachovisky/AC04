@@ -23,5 +23,5 @@ Quais são os gêneros mais populares dentro da plataforma?
 ## **Bibliotecas Utilizadas**
 pandas
 matplotlib.pyplot
-seaborn
+Numpy
 
